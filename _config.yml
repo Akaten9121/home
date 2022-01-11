@@ -2,3 +2,8 @@ theme: jekyll-theme-midnight
 plugins:
  - jekyll-sitemap
 google_analytics: G-LEHRYMP4Z5
+sitemap:
+    path: sitemap.xml
+    template: ./sitemap_template.xml
+    rel: false
+    
